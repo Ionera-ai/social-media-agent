@@ -1,7 +1,0 @@
-{
-  "graphs": {
-    "reflection_v2": "./memory_v2/graph.py:graph"
-  },
-  "env": "../.env",
-  "dependencies": ["."]
-}
